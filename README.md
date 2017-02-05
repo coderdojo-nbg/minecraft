@@ -1,4 +1,4 @@
-# Sushi-Karten für HTML/CSS
+# Sushi-Karten für Python
 
 Hier findest du alle Sushi-Karten zum Thema Python in Minecraft auf dem Raspberry Pie.
 

@@ -1,8 +1,15 @@
-# Sushi-Karten für Python
+# Programmieren in Minecraft
 
-Hier findest du alle Sushi-Karten zum Thema Python in Minecraft auf dem Raspberry Pie.
+Folgende Optionen gibt es:
 
-Neue Karten werden in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) erstellt. 
+* Modding mit ScriptCraft (JavaScript)
+* Modding mit ForgeEssentials (JavaScript)
+* Modding mit Python
+* Modding mit Java
+
+Weitere Infos zu notwendiger Software sind im Wiki zu finden.
+
+Codebeispiele und Sushi-Cards werden im Repo gelistet.
 
 # Reihenfolge für die Bearbeitung durch Ninjas
 
@@ -10,7 +17,7 @@ TODO: Aufzählung und/oder Flussdiagramm
 
 # Struktur des Repos
 ## Markdown
-Enthält alle Markdown-Dateien. Die Dateien sollen entsprechend der Reihenfolge benannt sein, also *"XX-Name-md"*. Woebi "XX" für zweistellige Ziffer steht, beginnend mit "01". "Name" gibt kurz und prägnant den Inhalt, z.B. "grundgerüst-html" oder "grundlagen-css" oder "tabellen-html".
+Enthält alle Markdown-Dateien. Die Dateien sollen entsprechend der Reihenfolge benannt sein, also *"XX-Name-md"*. Wobei "XX" für zweistellige Ziffer steht, beginnend mit "01". "Name" gibt kurz und prägnant den Inhalt, z.B. "grundgerüst-html" oder "grundlagen-css" oder "tabellen-html".
 
 Bilder und Grafiken werden im Unterverzeichnis **img** gesammelt. Die Bennenung der Bilder erfolgt analog zu den Markdown-Dateien: *"XX_YY-bild.png"*, wobei "XX" die entsprechende Nummer der zugehörigen Markdown-Datei ist und "YY" die fortlaufende Nummer des Bilders innerhalb der Datei (beginnend mit "01").
 
@@ -22,7 +29,7 @@ Enthält alle PDF für den Druck der Sushi-Cards. Gegebenenfalls auch Rohdaten a
 
 # Markdown-Editoren
 
-Markdown kann mit jedem beliebigen Editor geschrieben werden, das es nur um Textdateien handelt. Allerdings erleichtert ein Editor mit Vorschau die Arbeit. 
+Markdown kann mit jedem beliebigen Editor geschrieben werden, das es nur um Textdateien handelt. Allerdings erleichtert ein Editor mit Vorschau die Arbeit.
 
 Einige Empfehlungen:
 - Windows: [MarkdownPad](http://markdownpad.com/)
@@ -30,4 +37,3 @@ Einige Empfehlungen:
 - Linux: [Atom](https://atom.io/)
 
 Ausführlichere Liste: [Die besten Markdown-Editoren für Windows, MacOS und Online](http://injelea-blog.de/die-besten-markdown-editoren-fuer-windows-macos-und-online/). Editoren wie [vim](http://www.vim.org/) oder [Emacs](https://www.gnu.org/software/emacs/) haben auch Markdown-Modi.
-
